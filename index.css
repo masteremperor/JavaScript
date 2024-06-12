@@ -1,0 +1,10 @@
+.b1{
+    background-color: rgb(26, 171, 171);
+    border-radius: 20px ;
+    border: none;
+    width: 80px;
+    height: 25px;
+}
+.b1:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+.label{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: block;
+    margin-top: 1cm;
+}
+
+.div{
+    margin-top: 1cm;
+    text-align: center;
+}
+
+.b1{
+background-color: turquoise;
+border-radius: 5px;    
+border: none;
+padding: 10px 10px;
+}
+.b1:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.b2{
+    background-color: turquoise;
+    border-radius: 5px;    
+    border: none;
+    padding: 10px 10px;
+}
+.b2:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.b3{
+    background-color: turquoise;
+    border-radius: 5px;    
+    border: none;
+    padding: 10px 10px;
+}
+.b3:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
